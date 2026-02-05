@@ -57,3 +57,5 @@ It also helps to understand **what abstractions are built upon** and **what thei
 
 ## Core Warning
 **Don’t assume math laws blindly**
+
+2026-02-06 will finish this chapter
